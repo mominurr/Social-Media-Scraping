@@ -1,4 +1,4 @@
-# Project: Social Media Scraping 
+# Social Media Scraping 
 
 This project focuses on scraping data from popular social media platforms like TikTok, LinkedIn, Facebook, and Twitter (X.com). Each platform's data is scraped using specific techniques and offers a range of useful information for analysis or research purposes. Below are the details of the data scraped from each platform, along with sample files provided for better understanding.
 
