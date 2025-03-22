@@ -2,6 +2,16 @@
 
 This project focuses on scraping data from popular social media platforms like TikTok, LinkedIn, Facebook, and Twitter (X.com). Each platform's data is scraped using specific techniques and offers a range of useful information for analysis or research purposes. Below are the details of the data scraped from each platform, along with sample files provided for better understanding.
 
+# ⚠️ **Important Notice: Business Use Only** ⚠️
+
+This repository is for **demonstration purposes only** and **not for free use**. It showcases my professional expertise in **web scraping** and **automation**.
+
+🚫 **Unauthorized use, redistribution, or modification is strictly prohibited.**
+
+💼 **For custom web scraping and automation solutions, please contact me directly for professional, business-focused services.**
+
+📩 [Get in Touch](https://mominur.dev)
+
 ## 1. TikTok Data Scraping
 I scrape TikTok data using keywords and hashtags as search terms, as well as from specific user profiles. The scraped data includes valuable metrics related to user engagement and video performance.
 
